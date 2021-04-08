@@ -11,8 +11,8 @@ source: https://youtu.be/hDjK5C2aoSs
 spicy: true
 ---
 
-* `1 Esslöffel` garam masala (Gewürz)
-* `1 Esslöffel` Salz
+* `1 EL` garam masala (Gewürz)
+* `1 EL` Salz
 * `240g` Voll-Fett Joghurt
 * `3/4 kg` knochenlose, hautlose Hühnhenschenkel
 
@@ -34,10 +34,10 @@ spicy: true
 
 ---
 
-* `2 Teelöffel` Paprika
-* `2 Teelöffel` gemahlener Kümmel
-* `1 Esslöffel` garam masala
-* `1.5 Esslöffel` Kurkumapulver (optional)
+* `2 TL` Paprika
+* `2 TL` gemahlener Kümmel
+* `1 EL` garam masala
+* `1.5 EL` Kurkumapulver (optional)
 * `400ml` passierte Tomaten
 * `160ml` Wasser
 
@@ -47,14 +47,14 @@ spicy: true
 
 * `240ml` Schlagsahne
 
-> Füge das Hühnchen hinzu und lasse alles für 3-5 Minuten köcheln. Gib nun die Schlagsahne hinzu und rühre bis sie gleichmäßig verteilt und angedickt ist. Bringe das zu einem leichten Köcheln bevor du die Hitze auf niedrig stellst und es unter ständigem Rühren bis zu 4 Minuten köcheln lässt.
+> Füge das Hühnchen hinzu und lasse alles für 3-5 Minuten köcheln. Gib nun die Schlagsahne dazu und rühre bis sie gleichmäßig verteilt und angedickt ist. Bringe das zu einem leichten Köcheln bevor du die Hitze auf niedrig stellst und es unter ständigem Rühren bis zu 4 Minuten köcheln lässt.
 
 ---
 
-* `2 Teelöffel` Butter
+* `2 TL` Butter
 
 > Schalte den Herd aus und rühre die Butter unter bis sie geschmolzen ist. Schmecke das Curry mit Salz ab.
 
 ---
 
-Serviere in einer flachen Schale mit gedämpften Reis und Korianderblättern.
+> Serviere in einer flachen Schale mit gedämpften Reis und Korianderblättern.

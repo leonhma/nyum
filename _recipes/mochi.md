@@ -1,14 +1,14 @@
 ---
 title: Mochi
 original_title: 餅, もち
-category: Dessert
+category: Dessert / Süß / Snack
 image: mochi.png
 description: Eiskugeln umwickelt mit Reiskuchen-Teig.
 size: 12 Bälle
 time: 1.5 Stunden
 author: Joshua Weissman
 source: https://youtu.be/EmwGaqjMJkM
-vegan: true
+veggie: true
 ---
 
 * Eis (mit verschiedenen Geschmäckern)
