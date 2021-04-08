@@ -1,7 +1,7 @@
 ---
 title: Strawberry Smoothie
 description: Great on a hot summer day.
-image: strawberrysmoothie.jpg
+image: images/strawberrysmoothie.jpg
 size: 2 servings
 time: 5 minutes
 veggie: ✓
