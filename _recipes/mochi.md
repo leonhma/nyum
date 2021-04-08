@@ -2,38 +2,32 @@
 title: Mochi
 category: Dessert
 image: mochi.png
-description: Ice cream balls wrapped in ricecake dough.
-size: 12 balls
-time: 1.5 hours
+description: Eiskugeln umwickelt mit Reiskuchen-Teig.
+size: 12 Bälle
+time: 1.5 Stunden
 author: Joshua Weissman
 source: https://youtu.be/EmwGaqjMJkM
 veggie: ✓
 ---
 
-* icecream (in different flavours)
+* Eis (mit verschiedenen Geschmäckern)
 
-> Scoop out small balls of icecream and put them in the egg carton lined with plastic wrap. Then put them in the freezer for 2-48 hours to harden.
-
----
-
-* `160g` rice flour
-* `60g` sugar
-* `230ml` water
-
-> Combine the flour and sugar in a microwave-safe bowl. Then mix in all the water. Once everything is homogenized, scraped down the sides of the bowl, cover it with plastic wrap and put it in the microwave for one minute. This replaces steaming rice and then turning it into paste.
-
-> After microwaving, wet a spatula and fold the mixture together. Microwave again for one minute and repeat folding with a wet spatula. The dough should get stickier wit every microwaving.
-
-> Put it in the microwave a last time for 30 seconds, then fold it together and dump the dough out on a parchment paper dusted with cornstarch.
+> Forme kleine Eiskugeln und lege sie in den mit Frischhaltefolie ausgelegten Eierkarton. Lege sie danach 2-48 Stunden in den Gefrierschrank, um sie aushärten zu lassen.
 
 ---
 
-> Dust the top of the dough and the rolling pin, too. Roll the dough out while dusting it with cornstarch if it gets too sticky. It should be about 6mm in thickness.
+* `160g` Reismehl
+* `60g` Zucker
+* `230ml` Wasser
 
-> Use circular cutters to cut out ...circles and wrap the hardened icecream balls in dough. Then wrap these in plastic wrap and put them back into the fridge.
-
->>> Take out the balls of icecream one at a time to prevent them from getting soft again.
+> Vermische Mehl und Zucker in einer Mikrowellen-geeigneten Schüssel und vermische dies mit Wasser zu einem glatten Teig. Säubere die Seiten der Schüssel mit einem Spachtel und stelle die Mischung für eine Minute in die Mikrowelle. Befeuchte den Spachtel und falte die Masse zusammen. Wiederhole diesen Schritt ein zweites mal. Der Teig sollte jetz klebriger werden. Stelle den Teig nunn ein letzes mal für 30 Sekunden in die Mikrowelle und falte ihn wieder mit einem angefeuchteten Spachtel zusammen. Rolle ihn danach auf einen mit Maisstärke bestäubten Backpapier auf eine Dicke von 6mm aus.
 
 ---
 
-> When serving, take them out of the freezer and give them 1-2 minutes to soften up.
+> Benutze kreisförmmige Ausstecher um Kreise auszustechen und wickle die ausgehärteten Eiskugeln in Teig. Wickle diese in Frischhaltefolie ein und lege sie zurück in den Gefrierschrank.
+
+>>> Nimm die Eiskugeln nacheinander aus dem Gefrierschrank, um zu verhindern, dass diese auftauen.
+
+---
+
+> Beim servieren, den Kugeln ein bis zwei Minuten Zeit zum auftauen lassen.
