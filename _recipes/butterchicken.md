@@ -1,5 +1,6 @@
 ---
 title: Hühnchencurry
+original_title: Chicken Makhani
 category: Indisch
 image: butterchicken.png
 description: Hühnchencurry mit Reis.
@@ -21,7 +22,8 @@ spicy: true
 
 > Erhitze eine große Pfanne mit Pflanzenöl auf mittler bis hoher Hitze. Füge das marinierte Hühnchen hinzu und brate es auf beiden Seiten 2-3 Minuten lang an.
 
->>> Das Hühnchen solle gebräunt, aber noch nicht durchgekocht sein.
+>>> Das Hühnchen sollte gebräunt, aber noch nicht durchgekocht sein.
+
 ---
 
 * `1` Zwiebel, gewürfelt
@@ -36,7 +38,6 @@ spicy: true
 * `2 Teelöffel` gemahlener Kümmel
 * `1 Esslöffel` garam masala
 * `1 1/2 Esslöffel` Kurkumapulver (optional)
-
 * `400ml` passierte Tomaten
 * `160ml` Wasser
 
@@ -50,10 +51,6 @@ spicy: true
 
 ---
 
-* `2 Teelöffel (28g)` Butter
+* `2 Teelöffel` Butter
 
 > Schalte den Herd aus und rühre die Butter unter bis sie geschmolzen ist. Schmecke das Curry mit Salz ab.
-
----
-
-> Richte es auf einer flachen Schale mit gedämpften Reis und Koriandr an.

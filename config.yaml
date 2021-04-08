@@ -1,6 +1,6 @@
 # Text shown on the index page.
 index_title: Kochbuch
-index_description: Ansammlung von ausgewählten Rezepten aus dem Internet, etc.
+index_description: Sammlung von ausgewählten Rezepten aus dem Internet, etc.
 
 # Whether to show each recipe's image, if available, on the index page. To
 # enable, set this option to any non-empty value (other than "false" in recent
@@ -13,7 +13,7 @@ lang: de
 strings:
   search_placeholder: Suchen...
   uncategorized_label: Unbekannt
-  source_label: Ursprung
+  source_label: Herkunft
   spicy_label: Scharf
   vegan_label: Vegan
   meat_label: Fleisch
