@@ -1,4 +1,5 @@
 [
-{"title":"Hühnchencurry","spicy":true,"category":"Indisch","source":"https://youtu.be/hDjK5C2aoSs","author":"Joshua Weissman","image":"butterchicken.png","description":"Hühnchencurry mit Reis.","htmlfile":"butterchicken.html","size":"2-3 Portionen","time":"1.5 Stunden"}
-,{"title":"Mochi","category":"Dessert","source":"https://youtu.be/EmwGaqjMJkM","author":"Joshua Weissman","image":"mochi.png","veggie":"✓","description":"Eiskugeln umwickelt mit Reiskuchen-Teig.","htmlfile":"mochi.html","size":"12 Bälle","time":"1.5 Stunden"}
+{"original_title":"Chicken Makhani","title":"Hühnchencurry","spicy":true,"category":"Indisch","source":"https://youtu.be/hDjK5C2aoSs","author":"Joshua Weissman","image":"butterchicken.png","description":"Hühnchencurry mit Reis.","htmlfile":"butterchicken.html","size":"2-3 Portionen","time":"1.5 Stunden"}
+,{"original_title":"Chocolate Babka","title":"Schokoladenzopf","category":"Backen","source":"https://youtu.be/q8VFsAGDleo","author":"Joshua Weissman","image":"chocolatebabka.png","description":"Briochebrot mit Schokolade gefüllt","htmlfile":"chocolatebabka.html","vegan":true,"size":"1 Kucheform","time":"1.5 Stunden"}
+,{"original_title":"餅, もち","title":"Mochi","category":"Dessert","source":"https://youtu.be/EmwGaqjMJkM","author":"Joshua Weissman","image":"mochi.png","description":"Eiskugeln umwickelt mit Reiskuchen-Teig.","htmlfile":"mochi.html","vegan":true,"size":"12 Bälle","time":"1.5 Stunden"}
 ]
