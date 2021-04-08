@@ -28,9 +28,9 @@ veggie: true
 
 > Platziere ein Frittierthermometer in einem Topf, der zur Hälfte mit Öl gefüllt ist und erhitze dieses auf 190°C. Während das aufheizt, vermische Zimt und Zucker in einem seperaten Behälter. Spritze den Churroteig direkt ins aufgeheitzte Öl und schneide ihn ab, wenn er ca. 15cm  lang ist. Frittieren den Churro 5-8 Minuten lang, bis er goldbraun ist. Hole ihn aus dem Öl und lege ihn auf einen Gitterrost mit Küchenpapier. Nach ca. 30 Sekunden, während der Churro immernoch heiß ist, wäaze ihn im Zimt-Zucker Mix. Wiederhole dies mit dem Rest des Teigs.
 
----
-
 # Schokoladen-Dip
+
+---
 
 * `120ml` Schlagsahne
 * `1/2 TL` Vanilleextrakt
