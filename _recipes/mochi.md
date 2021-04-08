@@ -1,12 +1,13 @@
 ---
 title: Mochi
-category: Sweet / Dessert
+category: Dessert
 image: mochi.png
 description: Ice cream balls wrapped in ricecake dough.
-size: 2-3 servings
+size: 12 balls
 time: 1.5 hours
 author: Joshua Weissman
 source: https://youtu.be/EmwGaqjMJkM
+veggie: ✓
 ---
 
 * icecream (in different flavours)
