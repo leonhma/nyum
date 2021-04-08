@@ -5,7 +5,7 @@ category: Backen
 image: chocolatebabka.png
 description: Briochebrot mit Schokolade gefüllt
 size: 2 Kucheformen
-time: 1.5 Stunden
+time: 2 Stunden
 author: Joshua Weissman
 source: https://youtu.be/q8VFsAGDleo
 veggie: true
@@ -15,7 +15,7 @@ veggie: true
 * `175ml` lauwarmes Wasser
 * `530g` Mehl
 * `100g` Zucker
-* `1 knappen Teelöffel` Salz
+* `3/4 Teelöffel` Salz
 * `3` Eier
 * `150g` Butter, bei Raumtemperatur
 
@@ -36,7 +36,7 @@ veggie: true
 
 ---
 
-Hole den Teig aus dem Kühlschrank, teile ihn in zwei Stücke und rolle ihn zu einem 1cm-dicken Quadrat aus. Verteile die hälfte der Schokolade auf dem Teig. Lasse dabei ungefähr 2-3cm Abstand vom Rand. Feuchte den Rand des Teiges mit Wasser an und rolle ihn auf. Schneide diese rolle längs in zwei Hälften. Lege sie übereinander und drücke zwei der Enden zusammen und lege die beiden Hälften übereinander wie ein Zopf. Am anderen Ende angekommen, drücke auch diese beiden Enden zusammen. Bei diesem Prozess kann auch das [Video](https://youtu.be/q8VFsAGDleo?t=246) helfen. Lege diesen Zopf nun in eine geölte Backform und decke diese mit einem Handtuch ab.   Backe diese nun bei 190°C im vorgeheizten Ofen für 25-30 Minuten, oder bis sie goldbraun sind und ein eingestochener Zahnstocker sauber wieder herauskommt.
+> Hole den Teig aus dem Kühlschrank, teile ihn in zwei Stücke und rolle ihn zu einem 1cm-dicken Quadrat aus. Verteile die hälfte der Schokolade auf dem Teig. Lasse dabei ungefähr 2-3cm Abstand vom Rand. Feuchte den Rand des Teiges mit Wasser an und rolle ihn auf. Schneide diese rolle längs in zwei Hälften. Lege sie übereinander und drücke zwei der Enden zusammen und lege die beiden Hälften übereinander wie ein Zopf. Am anderen Ende angekommen, drücke auch diese beiden Enden zusammen. Bei diesem Prozess kann auch das [Video](https://youtu.be/q8VFsAGDleo?t=246) helfen. Lege diesen Zopf nun in eine geölte Backform und decke diese mit einem Handtuch ab.   Backe diese nun bei 190°C im vorgeheizten Ofen für 25-30 Minuten, oder bis sie goldbraun sind und ein eingestochener Zahnstocker sauber wieder herauskommt.
 
 ---
 
