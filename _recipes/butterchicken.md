@@ -37,7 +37,7 @@ spicy: true
 * `2 Teelöffel` Paprika
 * `2 Teelöffel` gemahlener Kümmel
 * `1 Esslöffel` garam masala
-* `1 1/2 Esslöffel` Kurkumapulver (optional)
+* `1.5 Esslöffel` Kurkumapulver (optional)
 * `400ml` passierte Tomaten
 * `160ml` Wasser
 
@@ -54,3 +54,7 @@ spicy: true
 * `2 Teelöffel` Butter
 
 > Schalte den Herd aus und rühre die Butter unter bis sie geschmolzen ist. Schmecke das Curry mit Salz ab.
+
+---
+
+Serviere in einer flachen Schale mit gedämpften Reis und Korianderblättern.

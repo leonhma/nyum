@@ -4,11 +4,11 @@ original_title: Chocolate Babka
 category: Backen
 image: chocolatebabka.png
 description: Briochebrot mit Schokolade gefüllt
-size: 1 Kucheform
+size: 2 Kucheformen
 time: 1.5 Stunden
 author: Joshua Weissman
 source: https://youtu.be/q8VFsAGDleo
-vegan: true
+veggie: true
 ---
 
 * `3 Teelöffel` Hefepulver
@@ -24,3 +24,23 @@ vegan: true
 ---
 
 > Öle eine Schüssel und gib den Teig hinein. Bedecke diese mit Frischhaltefolie und stelle sie für ein bis zwei Tage in den Kühlschrank.
+
+---
+
+* `120g` Butter
+* `180g` dunkle Schokolade (~70%), zerschnitten
+* `42g` Kakaopulver
+* `105g` Puderzucker
+
+> Schmelze die Butter zusammen mit der Schokolade. Gib danach Puderzucker und Kakaopulver hinzu und verrühre bis eine vollständig homogene Masse entsteht.
+
+---
+
+Hole den Teig aus dem Kühlschrank, teile ihn in zwei Stücke und rolle ihn zu einem 1cm-dicken Quadrat aus. Verteile die hälfte der Schokolade auf dem Teig. Lasse dabei ungefähr 2-3cm Abstand vom Rand. Feuchte den Rand des Teiges mit Wasser an und rolle ihn auf. Schneide diese rolle längs in zwei Hälften. Lege sie übereinander und drücke zwei der Enden zusammen und lege die beiden Hälften übereinander wie ein Zopf. Am anderen Ende angekommen, drücke auch diese beiden Enden zusammen. Bei diesem Prozess kann auch das [Video](https://youtu.be/q8VFsAGDleo?t=246) helfen. Lege diesen Zopf nun in eine geölte Backform und decke diese mit einem Handtuch ab.   Backe diese nun bei 190°C im vorgeheizten Ofen für 25-30 Minuten, oder bis sie goldbraun sind und ein eingestochener Zahnstocker sauber wieder herauskommt.
+
+---
+
+* `70g` Zucker
+* `80ml` Wasser
+
+> Verrühre Zucker und Wasser in einem Topf und erhitze sie, bis der Zucker sich aufgelöst hat. Wenn die Schokoladenzöpfe fertig sind, bestreiche sie gleichmäßig mit dem **ganzen** Zuckersirup.

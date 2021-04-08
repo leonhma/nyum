@@ -32,3 +32,5 @@ vegan: true
 ---
 
 > Beim servieren, den Kugeln ein bis zwei Minuten Zeit zum auftauen lassen.
+
+>>> Vorsichtig beim Essen! Der Teig ist zäh und klebrig. Erstickungsgefahr!
