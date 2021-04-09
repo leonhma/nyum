@@ -31,7 +31,7 @@
             <section>
                 <h2>${it.category} <!--${it.recipes/length}--></h2>
                 ${for(it.recipes)}
-                    <div onclick="window.location = '${it.htmlfile}'">
+                    <div class="recipecard" onclick="window.location = '${it.htmlfile}'">
                         $if(show_images_on_index)$
                             <hr class="nostep">
                         $endif$
