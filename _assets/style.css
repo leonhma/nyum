@@ -383,9 +383,6 @@ blockquote blockquote blockquote em {
 a {
     color: var(--link);
 }
-a:hover {
-    opacity: 0.6;
-}
 
 footer {
     text-align: center;
