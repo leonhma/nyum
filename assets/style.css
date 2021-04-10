@@ -298,6 +298,15 @@ hr {
 .recipecard:hover {
     cursor: pointer;
 }
+.categoryheading {
+    border-bottom: 1px solid #383737;
+}
+.categoryheading .recipecard {
+    border-bottom: 1px solid #5c5a5a;
+}
+.categoryheading .recipecard:last-child {
+    border-bottom: none;
+}
 .recipe hr {
     counter-increment: step;
     margin-bottom: -2.4em;
