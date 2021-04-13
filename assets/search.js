@@ -33,6 +33,8 @@ function search(query) {
         if (matches(e["htmlfile"], query)) score += 1;
 
         // query for tags
+        console.log(meta);
+        console.log(typeof meta)
         console.log(meta.strings)
         if (e["favorite"] && matches(meta.strings.favorite, query)) score += 7;
         if (e["spicy"] && matches(meta.strings.spicy_label, query)) score += 7;
