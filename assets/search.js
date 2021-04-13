@@ -33,6 +33,7 @@ function search(query) {
         if (matches(e["htmlfile"], query)) score += 1;
 
         // query for tags
+        print(meta.strings)
         if (e["favorite"] && matches(meta.strings.favorite, query)) score += 7;
         if (e["spicy"] && matches(meta.strings.spicy_label, query)) score += 7;
         if (e["vegan"] && matches(meta.strings.vegan_label, query)) score += 7;
