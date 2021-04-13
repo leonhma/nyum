@@ -1,6 +1,6 @@
 ---
 title: Churros
-category: Dessert / Süß / Snack
+category: Süß
 image: churros.png
 description: Frittierte Teigstangen mit Dip serviert.
 size: 10-12 Churros

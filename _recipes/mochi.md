@@ -1,7 +1,7 @@
 ---
 title: Mochi
 original_title: 餅, もち
-category: Dessert / Süß / Snack
+category: Süß
 image: mochi.png
 description: Eiskugeln umwickelt mit Reiskuchen-Teig.
 size: 12 Bälle
