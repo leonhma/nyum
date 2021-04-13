@@ -32,6 +32,12 @@ function search(query) {
         if (matches(e["description"], query)) score += 2;
         if (matches(e["htmlfile"], query)) score += 1;
 
+        // query for tags
+        if (e["spicy"] == "✓" && matches("Scharf", query)) score += 7;
+        if (e["favourite"] == "✓" && matches("Favorit", query)) score += 7;
+        if (e["vegan"] == "✓" && matches("Vegan", query)) score += 7;
+        if (e["veggie"] != "✓" && e["vegan"] != "✓" && matches("Fleisch", query)) score += 7;
+
         // significantly increase score if the query occurs right at the start of the (original) title
         if (matchesStart(e["title"], query)) score += 10;
         if (matchesStart(e["original_title"], query)) score += 5;
