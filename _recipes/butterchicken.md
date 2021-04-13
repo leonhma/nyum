@@ -8,7 +8,7 @@ size: 2-3 Portionen
 time: 1.5 Stunden
 author: Joshua Weissman
 source: https://youtu.be/hDjK5C2aoSs
-spicy: true
+spicy: "Scharf"
 ---
 
 * `1 EL` garam masala (Gewürz)

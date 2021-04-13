@@ -295,7 +295,7 @@ hr {
     width: 100%;
     border-top: 1px solid var(--horizontal-rule);  /* using a border instead of background color to circument no-background-colors print settings */
 }
-.recipecard:hover {
+.recipecard {
     cursor: pointer;
 }
 .recipe hr {

@@ -8,8 +8,8 @@ size: 2 Kuchenformen
 time: 2 Stunden
 author: Joshua Weissman
 source: https://youtu.be/q8VFsAGDleo
-veggie: true
-favorite: true
+veggie: "Vegetarisch"
+favorite: "Favorit"
 ---
 
 * `3 TL` Trockenhefe
