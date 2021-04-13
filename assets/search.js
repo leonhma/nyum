@@ -36,7 +36,6 @@ function search(query) {
         if (matches(e["favorite"], query)) score += 7;
         if (matches(e["spicy"], query)) score += 7;
         if (matches(e["vegan"], query)) score += 7;
-        if (matches(e["veggie"], query)) score += 7;
 
         // significantly increase score if the query occurs right at the start of the (original) title
         if (matchesStart(e["title"], query)) score += 10;
