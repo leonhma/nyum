@@ -295,6 +295,9 @@ hr {
     width: 100%;
     border-top: 1px solid var(--horizontal-rule);  /* using a border instead of background color to circument no-background-colors print settings */
 }
+.recipecard:hover {
+    cursor: pointer;
+}
 .recipe hr {
     counter-increment: step;
     margin-bottom: -2.4em;
@@ -382,9 +385,6 @@ blockquote blockquote blockquote em {
 }
 a {
     color: var(--link);
-}
-a:hover {
-    opacity: 0.6;
 }
 
 footer {
