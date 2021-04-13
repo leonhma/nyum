@@ -29,9 +29,8 @@ source: https://youtu.be/9W2LaPvvQaE
 
 ---
 
-# Schokoladen-Dip
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Schokoladen-Dip
 
----
 
 * `120ml` Schlagsahne
 * `1/2 TL` Vanilleextrakt
