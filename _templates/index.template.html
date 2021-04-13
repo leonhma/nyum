@@ -3,9 +3,12 @@
 <head>
     ${head.partial.html()}
     <title>$if(index_title)$$index_title$ – $endif$nyum</title>
-    <div data-strings='{$for(strings)$"$it.key$": "$it.value$", $endfor$}' style="display: none"></div>
 </head>
 <body>
+    <script type="text/javascript">
+        const strings = '$meta-json$'
+        console.log(strings)
+    </script>
     <main class="index">
         <header>
             <div class="name">
