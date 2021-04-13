@@ -2,7 +2,7 @@
 title: Knusprige Pommes
 category: Herzhaft
 image: ovenfries.jpg
-description: Hühnchencurry mit Reis.
+description: Knusprige Pommes aus dem Ofen.
 size: 2-3 Portionen
 time: 1.5 Stunden
 author: Ethan Chlebowski
@@ -24,6 +24,8 @@ vegan: "Vegan"
 ---
 
 > Verteile die Kartoffeln auf einem Backblech und gieße das Öl über sie. Die Pommes sollten vollständig mit Öl bedeckt sein und der Rest sollte sich auf dem Backblech befinden. Gib das Backbleck nun für 15 Minuten in den Ofen.
+
+---
 
 > Nimm das Backblech aus dem Ofen und wende die Pommes. Wenn sie zu trocken aussehen, tropfe noch etwas Öl dazu. Nun zurück in den Ofen für weitere 15-20 Minuten. Sie sollten nun knusprig und gebräunt sein. Das hängt auch von der Menge der Pommes und dem benutzten Öl ab.
 
