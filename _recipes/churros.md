@@ -7,7 +7,6 @@ size: 10-12 Churros
 time: 1 Stunde
 author: Joshua Weissman
 source: https://youtu.be/9W2LaPvvQaE
-veggie: "Vegetarisch"
 ---
 
 * `85g` Butter

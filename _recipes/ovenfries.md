@@ -7,7 +7,7 @@ size: 2-3 Portionen
 time: 1.5 Stunden
 author: Ethan Chlebowski
 source: https://youtu.be/MvnYBCDaEKU
-vegan: "Vegan"
+vegan: true
 ---
 
 * `4` große Kartoffeln

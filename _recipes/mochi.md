@@ -8,7 +8,6 @@ size: 12 Bälle
 time: 1.5 Stunden
 author: Joshua Weissman
 source: https://youtu.be/EmwGaqjMJkM
-veggie: "Vegetarisch"
 ---
 
 * Eis (mit verschiedenen Geschmäckern)

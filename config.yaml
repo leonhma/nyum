@@ -17,6 +17,7 @@ strings:
   spicy_label: Scharf
   vegan_label: Vegan
   meat_label: Fleisch
+  favorite: Favorit
   footer_text: Guten Appetit!
   updated_on: Geändert am
   edit: Bearbeiten

@@ -33,9 +33,11 @@ function search(query) {
         if (matches(e["htmlfile"], query)) score += 1;
 
         // query for tags
-        if (matches(e["favorite"], query)) score += 7;
-        if (matches(e["spicy"], query)) score += 7;
-        if (matches(e["vegan"], query)) score += 7;
+        if (e["favorite"] && matches(meta.strings.favorite, query)) score += 7;
+        if (e["spicy"] && matches(meta.strings.spicy_label, query)) score += 7;
+        if (e["vegan"] && matches(meta.strings.vegan_label, query)) score += 7;
+        if (e["meat"] && matches(meta.strings.meat_label, query)) score += 7;
+        
 
         // significantly increase score if the query occurs right at the start of the (original) title
         if (matchesStart(e["title"], query)) score += 10;
@@ -75,7 +77,7 @@ function showResults(results) {
             + `<i class="icons">`
             + (e.favorite ? `<img src="assets/tabler-icons/tabler-icon-star.svg"> ` : ``)
             + (e.spicy ? `<img src="assets/tabler-icons/tabler-icon-flame.svg"> ` : ``)
-            + ((e.veggie || e.vegan) ? `` : `<img src="assets/tabler-icons/tabler-icon-bone.svg"> `)
+            + ((e.meat) ? `<img src="assets/tabler-icons/tabler-icon-bone.svg"> ` : ``)
             + (e.vegan ? `<img src="assets/tabler-icons/tabler-icon-leaf.svg"> ` : ``)
             + `</i>`
             + `<span>${e.title}</span> `
