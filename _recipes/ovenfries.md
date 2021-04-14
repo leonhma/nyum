@@ -10,7 +10,7 @@ source: https://youtu.be/MvnYBCDaEKU
 vegan: true
 ---
 
-* `4` große Kartoffeln
+* `4` große mehlig kochende Kartoffeln
 * (grobes) Salz
 * `1 EL` Essig
 * `60ml` Erdnussöl
