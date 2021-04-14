@@ -23,7 +23,7 @@ vegan: true
 
 ---
 
-> Verteile die Kartoffeln auf einem Backblech und gieße das Öl über sie. Die Pommes sollten vollständig mit Öl bedeckt sein und der Rest sollte sich auf dem Backblech befinden. Gib das Backbleck nun für 15 Minuten in den Ofen.
+> Verteile die Kartoffeln auf einem Backblech und gieße das Öl über sie. Die Pommes sollten vollständig mit Öl bedeckt sein und der Rest sollte sich auf dem Backblech befinden. Gib das Backbleck nun für 15 Minuten bei Umluft in den Ofen.
 
 ---
 
