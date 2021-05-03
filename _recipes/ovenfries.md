@@ -13,7 +13,6 @@ vegan: true
 * `4` große mehlig kochende Kartoffeln
 * (grobes) Salz
 * `1 EL` Essig
-* `60ml` Erdnussöl
 
 > Bringe einen mit Wasser gefüllten Topf über mittlerer Hitze zum kochen. Schäle währenddessen die Kartoffeln und schneide sie in 1cm-1,5cm große Pommes. Heize den Ofen auf 230°C vor.
 
@@ -22,6 +21,8 @@ vegan: true
 > Wenn das Wasser kocht, füge den Essig und eine 3-Finge Prise Salz hinzu. Gib die Kartoffelstücke dem kochenden Wasser hinzu und stelle einen Timer auf 8 Minuten. Nach diesen acht Minuten, kippe die Kartoffeln in ein sieb und lasse den Dampf für ein paar Minuten abziehen.
 
 ---
+
+* `60ml` (Erdnuss-)Öl
 
 > Verteile die Kartoffeln auf einem Backblech und gieße das Öl über sie. Die Pommes sollten vollständig mit Öl bedeckt sein und auf dem Boden des Backblechs sollte sich auch eine 2-3mm dicke Schicht befinden. Gib das Backbleck nun für 15 Minuten bei Umluft in den Ofen.
 
