@@ -6,7 +6,7 @@ description: Knusprige Pommes aus dem Ofen.
 size: 2-3 Portionen
 time: 1.5 Stunden
 author: Ethan Chlebowski
-source: https://youtu.be/MvnYBCDaEKU
+source: https://youtu.be/MvnYBCDaEKU?t=260
 vegan: true
 ---
 
