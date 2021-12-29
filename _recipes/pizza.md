@@ -10,6 +10,10 @@ source: https://youtu.be/SDpCzJw2xm4?t=6
 favorite: true
 ---
 
+## Vorbereitung
+
+---
+
 * `600ml` Wasser
 * `1 EL` Zucker
 * `1 TL` Aktive trockenhefe
@@ -22,7 +26,9 @@ favorite: true
 
 <br><br>
 
-# Belegen und Backen
+## Belegen und Backen
+
+---
 
 > Den Ofen auf die höchstmögliche Temperatur (~300°) vorheizen.
 
