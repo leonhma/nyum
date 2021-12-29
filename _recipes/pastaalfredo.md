@@ -1,6 +1,6 @@
 ---
 title: Pasta Alfredo
-category: Pasta
+category: Italienisch
 image: pastaalfredo.png
 description: Nudeln mit Käsesoße und Erbsen.
 time: 15 Minuten
