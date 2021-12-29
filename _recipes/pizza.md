@@ -10,10 +10,6 @@ source: https://youtu.be/SDpCzJw2xm4?t=6
 favorite: true
 ---
 
-# Vorbereitung
-
----
-
 * `600ml` Wasser
 * `1 EL` Zucker
 * `1 TL` Aktive trockenhefe
