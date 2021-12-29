@@ -7,10 +7,12 @@ size: 4 Pizzen
 time: 1.5 Stunden
 author: Adam Ragusea
 source: https://youtu.be/SDpCzJw2xm4?t=6
+favorite: true
 ---
 
-## Vorbereitung
+# Vorbereitung
 
+---
 
 * `600ml` Wasser
 * `1 EL` Zucker
@@ -22,8 +24,9 @@ source: https://youtu.be/SDpCzJw2xm4?t=6
 > In einer großen Schüssel Wasser, Zucker und Hefe vermischen. Die Hefemischung für ca. 5 Minuten ruhen lassen. Nun das Öl, Salz und Mehl verkneten und nach Gefühl mehr Mehl hinzufügen. Dem Teig sollte aber nicht zu viel Mehl hinzugefügt werden. Fertig ist er, wenn man den Teig hauchdünn ziehen kann, ohne dass er reißt. Den fertigen Teig in vier gleiche Teile teilen, in glatte Bälle formen und in geölte Behälter geben.
 > Dieser Teig kann nach wenigen Stunden bei Raumtemperatur oder nach 1-7 Tagen im Kühlschrank gebacken werden.
 
+<br><br>
 
-## Belegen und Backen
+# Belegen und Backen
 
 > Den Ofen auf die höchstmögliche Temperatur (~300°) vorheizen.
 
