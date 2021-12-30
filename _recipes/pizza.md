@@ -24,6 +24,8 @@ favorite: true
 
 ## Belegen und Backen
 
+*Mengenangaben für eine Pizza*
+
 > Den Ofen auf die höchstmögliche Temperatur (~300°) vorheizen.
 
 ---
