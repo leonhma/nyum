@@ -30,7 +30,7 @@ favorite: true
 
 ---
 
-* `170-227g` trockener Mozarella
+* `170-230g` trockener Mozarella
 * `200ml` gehäutete Dosentomaten
 * `1 Prise` Zucker
 * `1 TL` getrockneter Oregano
