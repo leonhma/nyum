@@ -1,6 +1,5 @@
 ---
 title: Pizza
-original_title: New York-style Pizza
 category: Italienisch
 description: Knusprige Pizza mit Käse.
 size: 4 Pizzen
